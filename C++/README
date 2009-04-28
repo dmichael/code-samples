@@ -1,0 +1,12 @@
+C++
+
+These are example C++ files originally coded as part of a realtime audio framework extended for use with Ruby.
+
+The file Marionette.cpp is intended to be a Singleton class (though not implemented as one) to manage the creation of audio objects, adding them to the master Bus, and processing from the main callback function.
+
+I have also included an implementation of the Observer pattern, also used in the framework. It is really intended to be Observable Observers.
+
+There are other C++ files browsable at http://github.com/dmichael/marionette and in the Ruby folder (/Ruby/extensions)
+
+David
+June 22 2008
