@@ -12,7 +12,10 @@ A simple class to help you with files and folders.
 
 ## Methods of interest
 
-**filter(string)** *Returns FileBrowser*
-**sort(order, direction)** *Returns FileBrowser*
-**page(number)** *Returns FileBrowser*
+**filter(string)** *Returns FileBrowser*  
+
+**sort(order, direction)** *Returns FileBrowser*  
+
+**page(number)** *Returns FileBrowser*  
+
 
