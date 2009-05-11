@@ -10,5 +10,9 @@ A simple class to help you with files and folders.
 
     files = filebrowser.reset.files
 
+## Methods of interest
 
+*filter(string)* Returns FileBrowser
+*sort(order, direction)* Returns FileBrowser
+*page(number)* Returns FileBrowser
 
