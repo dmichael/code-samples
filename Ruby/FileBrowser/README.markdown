@@ -8,13 +8,15 @@ A simple class to help you with files and folders.
 
 ## Methods of interest
 
-**filter(string)**  
+**#filter(string)**  
 *Returns FileBrowser*  
 
-**sort(order, direction)**  
+**#sort(order, direction)**  
 *Returns FileBrowser*  
 
-**page(number)**   
+**#page(number)**   
  *Returns an Array of FileStats*  
+
+**#per_page=(number)**  
 
 
